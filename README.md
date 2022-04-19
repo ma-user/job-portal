@@ -2,7 +2,7 @@
 
 ## Note:
 	
-- Website was built to meet specifications listed in Specifications.pdf
+- Specifications are listed in Specifications.pdf
 
 ## Installations
 
