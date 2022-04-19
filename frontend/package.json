@@ -1,0 +1,49 @@
+{
+  "name": "template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "alertify": "^0.3.0",
+    "alertifyjs": "^1.13.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.3",
+    "classnames": "^2.2.6",
+    "jquery": "^3.5.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^16.12.0",
+    "react-dual-range-slider": "^1.0.4",
+    "react-intl": "^5.10.16",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.1",
+    "underscore": "^1.12.0",
+    "validator": "^13.5.2"
+  },
+  "scripts": {
+    "start": "BROWSER=none react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
